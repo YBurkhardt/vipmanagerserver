@@ -2,3 +2,5 @@
 /node_modules
 /.pnp
 .pnp.js
+.database
+log.txt
